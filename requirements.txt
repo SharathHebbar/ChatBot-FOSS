@@ -1,0 +1,6 @@
+pypdf 
+transformers 
+langchain 
+huggingface_hub 
+faiss-cpu
+python-dotenv==1.0.0
